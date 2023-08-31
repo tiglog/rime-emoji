@@ -1,0 +1,18 @@
+= 说明
+:author: tiglog
+:experimental:
+:toc: left
+:toclevels: 3
+:toc-title: 目录
+:sectnums:
+:icons: font
+:!webfonts:
+:autofit-option:
+:source-highlighter: rouge
+:rouge-style: github
+:source-linenums-option:
+:revdate: 2023-09-01
+:imagesdir: ./img
+
+rime 表情符号的 opencc 包，去掉重复的，增加一些额外的符号。
+
