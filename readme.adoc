@@ -16,3 +16,20 @@
 
 rime 表情符号的 opencc 包，去掉重复的，增加一些额外的符号。
 
+== 适用对象
+
+如果你是:
+
+- rime 用户
+- 简体中文用户
+- librime 1.8+ 用户
+
+== 来源
+
+基于 https://github.com/rime/rime-emoji[rime-emoji] ，把繁体字词全部转换为简体，然后去重。
+
+== 使用
+
+把 opencc 内的文件放入自己的 opencc 目录，然后引用 `emoji.json` 配置文件。
+
+
